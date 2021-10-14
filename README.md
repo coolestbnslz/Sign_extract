@@ -1,13 +1,13 @@
 #Signature Extraction Algorithm
 
-A real-life sample project which built on top of "[signature_extraction](https://github.com/ahmetozlu/signature_extractor/blob/master/signature_extractor.py)" algorithm to extract the signatures on the digital photo of the document. This project provides a basic document scanner and signature extractor!
+A real-life sample project which built on top of "[signature_extraction](https://github.com/coolestbnslz/Sign_extract/blob/master/signature_extractor.py)" algorithm to extract the signatures on the digital photo of the document. This project provides a basic document scanner and signature extractor!
 
 Here are the functionalities of this sample project:
 
-- [Page dewarping - Perspective transformation](https://github.com/ahmetozlu/signature_extractor/blob/master/sample_project/dewapper.py)
-- [Signatre extraction](https://github.com/ahmetozlu/signature_extractor/blob/master/sample_project/signature_extractor.py)
-- [Unsharpening mask](https://github.com/ahmetozlu/signature_extractor/blob/master/sample_project/unsharpen.py)
-- [Color correction](https://github.com/ahmetozlu/signature_extractor/blob/master/sample_project/color_correlation.py)
+- [Page dewarping - Perspective transformation](https://github.com/coolestbnslz/Sign_extract/blob/master/dewapper.py)
+- [Signatre extraction](https://github.com/coolestbnslz/Sign_extract/blob/master/signature_extractor.py)
+- [Unsharpening mask](https://github.com/coolestbnslz/Sign_extract/blob/master/unsharpen.py)
+- [Color correction](https://github.com/coolestbnslz/Sign_extract/blob/master/color_correlation.py)
 
 ## Quick Demo 
 
@@ -47,15 +47,7 @@ The signature extractor architecture already explain in the main repo [readme]()
   <img src="https://user-images.githubusercontent.com/22610163/47617314-f00c6200-dad6-11e8-8ebf-c45a391b378b.jpg">
 </p>
 
-## Citation
-If you use this code for your publications, please cite it as:
 
-    @ONLINE{hse,
-        author = "Ahmet Özlü",
-        title  = "Overlapped handwritten signature extraction from scanned documents",
-        year   = "2018",
-        url    = "https://github.com/ahmetozlu/signature_extractor"
-    }
 
 ## Author
 Ahmet Özlü
