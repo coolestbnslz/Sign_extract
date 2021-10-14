@@ -24,7 +24,7 @@ Here are the functionalities of this sample project:
 
 ### Sample Test Results
 
-#### - Sample result#1:
+#### - Sample result 1:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22610163/58769479-37e4f180-85b0-11e9-8822-c6521eb54781.gif" | width=450>
 </p>
@@ -48,9 +48,16 @@ The signature extractor architecture already explain in the main repo [readme]()
 </p>
 
 
+# Requirements:
+Install dependencies just mentioned in requirements.txt by typing command in shell.
 
-## Author
-Ahmet Özlü
+`pip install -r requirements.txt`
 
-## License
-This system is available under the MIT license. See the LICENSE file for more info.
+## Contact
+
+Any questions can be directed to nbansal1_be18@thapar.edu.
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
