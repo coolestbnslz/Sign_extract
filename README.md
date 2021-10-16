@@ -1,4 +1,4 @@
-#Signature Extraction Algorithm
+# Signature Extraction Algorithm
 
 A real-life sample project which built on top of "[signature_extraction](https://github.com/coolestbnslz/Sign_extract/blob/master/signature_extractor.py)" algorithm to extract the signatures on the digital photo of the document. This project provides a basic document scanner and signature extractor!
 
